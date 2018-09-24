@@ -1,0 +1,9 @@
+{
+	"name": "jenkinsNodeBSyatems",
+	"version": "6.6.6",
+	"dependencies": {
+		"express": "^4.10.6",
+		"formidable": "",
+		"request": ""
+	}
+}
